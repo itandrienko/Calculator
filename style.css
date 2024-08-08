@@ -3,6 +3,7 @@
 * {
   all: unset;
   display: revert;
+  touch-action: manipulation;
 }
 
 body {
